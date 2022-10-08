@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikramnaser
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning algorithms, machine learning and python
+- 👀 I’m interested in data science and data analysis
+- 🌱 I’m currently learning machine learning algorithms 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: ikramaitt@outlook.it
 
